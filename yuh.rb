@@ -1,0 +1,3 @@
+ puts Time.now.hour 
+
+  
